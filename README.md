@@ -30,7 +30,7 @@ Disk Space | M.2 NVME 240GB
 
 ### Operating System & Preferred Compiler
 Operating System | Compiler
---------|----------------------
+--------|-----------------
 [Windows Server 2019 Datacenter](https://www.microsoft.com/pt-br/sql-server/sql-server-2019)
 [MS Visual Studio 2022](https://www.visualstudio.com/downloads/)
 
