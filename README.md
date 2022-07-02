@@ -22,7 +22,7 @@
 4th Class rAthena Mod
 
 ### Hardware
-Hardware Type 
+Hardware Type
 ----|--------------
 CPU | AMD Ryzen 5 5600G
 RAM | 16GB
